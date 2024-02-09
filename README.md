@@ -1,1 +1,1 @@
-..
+The "Code-Driven Digital Rain Sensing Module" is an innovative project that combines coding and sensor technology to create an advanced rain detection system. This module utilizes sensors to detect raindrops and, through custom-written code, interprets the data to provide accurate information about rainfall detection, measurement & intensity. This technology has applications in weather monitoring, agriculture, and smart infrastructure, enabling more efficient and data-driven decision-making in various fields. 🖥️💡🌧️
