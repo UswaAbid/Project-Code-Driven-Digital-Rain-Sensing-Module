@@ -1,0 +1,5 @@
+ *.arduino linguist-detectable=true
+ *.c++ linguist-detectable=false
+ *.c linguist-detectable=false
+ *.html linguist-detectable=false
+ *.python linguist-detectable=false
