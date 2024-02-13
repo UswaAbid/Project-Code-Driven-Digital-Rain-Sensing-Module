@@ -1,4 +1,4 @@
- *.arduino uno linguist-detectable=true
+ *.arduinoUNO linguist-detectable=true
  *.c++ linguist-detectable=false
  *.c linguist-detectable=false
  *.html linguist-detectable=false
